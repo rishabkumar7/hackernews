@@ -1,2 +1,0 @@
-# hackernews
-HackerNews Clone
