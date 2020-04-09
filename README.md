@@ -1,4 +1,4 @@
-# hackernews
+# hackernews clone
 
 ## Project setup
 ```
